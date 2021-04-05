@@ -58,7 +58,7 @@ $ sudo apt-get install shadowsocks-libev
 
 ```console
 # 安装 Unblock Gateway
-$ git clone https://github.com/glucee/unblock_youku_gateway.git
+$ git clone https://github.com/binken/unblock_youku_gateway.git
 
 # 进入 Unblock Gateway 目录
 $ cd unblock_youku_gateway
